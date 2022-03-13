@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HUZlNeRDGQ_OBXNeXp6ggMtzOvCLUH_VCw&usqp=CAU" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
