@@ -157,6 +157,8 @@
   </a>
 </p>
 
+Stats So Far
+
 <p>
   <img
     align="left"
@@ -166,7 +168,7 @@
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="left"
     src="https://github-readme-stats.vercel.app/api?username=ynniraj&show_icons=true&locale=en"
     alt="ynniraj"
