@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaul570xsVePT7J-xvcvN0WIHqYvgUXvikaA&usqp=CAU" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://s3.ap-south-1.amazonaws.com/jaymewada.dc/img/other/developer.svg" height="100px"/></a>
 
 <h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
 <h3 align="center">A Full Stack Developer</h3>
