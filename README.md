@@ -1,13 +1,6 @@
-<img
-  align="center"
-  width="50%"
-  height="auto"
-  src="https://s3.ap-south-1.amazonaws.com/jaymewada.dc/img/other/developer.svg"
-  height="100px"
-/>
 
 <h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">Full-stack developer with a specialization in MERN stack.Passionate about building user-centric products.</h3>
 
 <p align="left">
   <img
