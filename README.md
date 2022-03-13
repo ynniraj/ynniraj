@@ -158,10 +158,10 @@
 </p>
 
 <h3 align="left">Stats So Far</h3>
-<br/>
+<hr/>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ynniraj&show_icons=true&locale=en&layout=compact"
     alt="ynniraj"
   />
@@ -169,7 +169,7 @@
 <br/>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=ynniraj&show_icons=true&locale=en"
     alt="ynniraj"
   />
@@ -177,7 +177,7 @@
 <br/>
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ynniraj&"
     alt="ynniraj"
   />
