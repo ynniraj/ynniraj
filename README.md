@@ -167,7 +167,7 @@
 
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=ynniraj&show_icons=true&locale=en"
     alt="ynniraj"
   />
@@ -175,7 +175,7 @@
 
 <p>
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ynniraj&"
     alt="ynniraj"
   />
