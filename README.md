@@ -39,7 +39,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -150,8 +150,8 @@
   </a>
 </p>
 
-<h3 align="left">Stats So Far</h3>
-<hr/>
+<h3 align="left">📊 Stats So Far</h3>
+
 <p>
   <img
     align="center"
