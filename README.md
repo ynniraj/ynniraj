@@ -157,8 +157,8 @@
   </a>
 </p>
 
-Stats So Far
-
+<h3 align="left">Stats So Far</h3>
+<br/>
 <p>
   <img
     align="left"
@@ -166,7 +166,7 @@ Stats So Far
     alt="ynniraj"
   />
 </p>
-
+<br/>
 <p>
   <img
     align="left"
@@ -174,7 +174,7 @@ Stats So Far
     alt="ynniraj"
   />
 </p>
-
+<br/>
 <p>
   <img
     align="left"
@@ -182,3 +182,4 @@ Stats So Far
     alt="ynniraj"
   />
 </p>
+<br/>
