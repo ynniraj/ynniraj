@@ -152,12 +152,8 @@
 
 <h3 align="left">📊 Stats So Far</h3>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ynniraj&show_icons=true&locale=en&layout=compact"
-    alt="ynniraj"
-  />
+<p align="center"><img alt="neeraj Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynniraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+       
 </p>
 <br/>
 <br/>
