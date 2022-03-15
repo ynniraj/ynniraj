@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **yneeraj9111@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img
+      src="https://emoji.slack-edge.com/T02ENN9T1FE/typingcat/694c7095d89e65d7.gif" 
+  />  Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/neeraj-yadav-b4b15521b" target="blank"
     ><img
