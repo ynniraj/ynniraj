@@ -9,7 +9,10 @@
   />
 </p>
 
+- 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me **yneeraj9111@gmail.com**
+- 👨‍💻 All of my projects are available at [https://portfolio-seven-sandy-81.vercel.app/](https://portfolio-seven-sandy-81.vercel.app/)
+
 
 <h3 align="left"> <img
       src="https://emoji.slack-edge.com/T02ENN9T1FE/typingcat/694c7095d89e65d7.gif" 
