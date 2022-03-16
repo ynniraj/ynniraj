@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me **yneeraj9111@gmail.com**
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-sandy-81.vercel.app/](https://portfolio-seven-sandy-81.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-seven-sandy-81.vercel.app/)
 
 
 <h3 align="left"> <img
