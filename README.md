@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Neeraj Yadav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Neeraj Yadav</h1>
 <h3 align="center">Full-stack developer with a specialization in MERN stack.Passionate about building user-centric products.</h3>
 
 <p align="left">
