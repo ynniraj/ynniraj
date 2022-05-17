@@ -160,7 +160,7 @@
 </p>
 <br/>
 <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="neeraj" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ynniraj&theme=dark&show_icons=true" alt="neeraj" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ynniraj&&theme=highcontrast" alt="neeraj" /></p>
 <br/>
